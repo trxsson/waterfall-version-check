@@ -1,0 +1,3 @@
+name: VersionCheck
+version: 1.0.0
+main: dev.trxsson.versioncheck.VersionCheck
